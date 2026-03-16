@@ -1,0 +1,5 @@
+variant,graph_aggregation,campaign_linking,forensic_hashing,suspicious_events,graph_edges,campaign_candidates,campaign_chains,final_objects_for_analyst,evidence_records,reduction_vs_detector_only
+detector_only,0,0,0,29773,,,,29773,0,1.0
+detector_plus_forensic_hashing,0,0,1,29773,,,,29773,6,1.0
+detector_plus_graph,1,0,1,29773,1967.0,804.0,,804,6,0.02700433278473785
+full_pipeline,1,1,1,29773,1967.0,804.0,779.0,779,6,0.02616464582003829

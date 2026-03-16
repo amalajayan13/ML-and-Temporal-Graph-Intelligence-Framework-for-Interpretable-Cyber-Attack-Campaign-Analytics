@@ -1,0 +1,2 @@
+evaluation_regime,temporal_order_source,train_rows,test_rows,accuracy,precision,recall,f1,roc_auc,pr_auc
+temporal_split,row_order_proxy,152379,38095,0.9861136632103951,1.0,0.9861136632103951,0.9930082869642219,,1.0
